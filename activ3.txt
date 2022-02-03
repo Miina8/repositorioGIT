@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 nueva línea 4 en rama principal
 nueva línea 5 en rama principal
+=======
+nueva línea 1
+nueva línea 2
+nueva línea 3
+>>>>>>> actividad3
